@@ -21,3 +21,5 @@
 漏洞修复：
 
 修复了无法识别提问信息中“+”符号的bug
+
+注意：chat文件夹下的myapp下的openai_key.py文件中存有APIkey，当前给出的APIKey已经失效，如需使用请自行获取
