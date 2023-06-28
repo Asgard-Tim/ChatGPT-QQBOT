@@ -1,0 +1,18 @@
+[2023-06-16 09:48:46] [ERROR]: Protocol -> unexpected disconnect: write tcp 10.234.27.46:53349->49.7.253.58:443: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-06-16 13:24:32] [ERROR]: Protocol -> parse incoming packet error: invalid packet type 
+[2023-06-16 13:24:32] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.234.27.46:55763->121.229.94.224:80: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-06-16 13:30:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-06-16 13:45:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-06-16 14:32:10] [WARNING]: Bot已离线: 服务端强制下线. 
+[2023-06-16 14:32:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-06-16 14:32:16] [WARNING]: 尝试重连... 
+[2023-06-16 14:32:17] [WARNING]: 快速重连失败: exchange_emp failed: 40 
+[2023-06-16 14:32:17] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2023-06-16 17:26:31] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2023-06-16 17:28:39] [FATAL]: 二维码过期 
+[2023-06-16 17:28:54] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-06-16 17:28:54] [WARNING]: 将在 5秒 后继续. 
+[2023-06-16 17:29:27] [FATAL]: 登录时发生致命错误: fetch qrcode error: missing payload length 
+[2023-06-16 17:29:58] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-06-16 17:29:58] [WARNING]: 将在 5秒 后继续. 
+[2023-06-16 17:30:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 

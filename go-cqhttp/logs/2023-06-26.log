@@ -1,0 +1,1 @@
+[2023-06-26 00:27:05] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.234.27.103:55451->49.7.253.177:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 

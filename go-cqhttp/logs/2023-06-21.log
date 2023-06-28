@@ -1,0 +1,8 @@
+[2023-06-21 19:05:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-21 19:05:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-21 19:05:54] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-21 19:05:57] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-21 19:07:22] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-21 19:07:27] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-21 19:14:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-21 19:14:22] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 

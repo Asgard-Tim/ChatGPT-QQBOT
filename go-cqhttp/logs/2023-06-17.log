@@ -1,0 +1,29 @@
+[2023-06-17 01:36:58] [WARNING]: 记录聊天数据时出现错误: insert message to backend error: put data error: write data\leveldb-v3\000027.log: There is not enough space on the disk. 
+[2023-06-17 01:37:32] [WARNING]: 记录聊天数据时出现错误: insert message to backend error: put data error: write data\leveldb-v3\000027.log: There is not enough space on the disk. 
+[2023-06-17 05:07:24] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:49155->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-06-17 11:35:36] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-06-17 13:56:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 13:56:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 13:57:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 13:57:29] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 13:57:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-06-17 13:59:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 13:59:59] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:02:44] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:02:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:02:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-06-17 14:04:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:04:49] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:05:29] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:05:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:13:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:13:49] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:13:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-06-17 14:14:52] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:14:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:15:33] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:15:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:18:50] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:18:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-06-17 14:19:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-06-17 14:19:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
